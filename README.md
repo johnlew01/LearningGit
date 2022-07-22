@@ -1,2 +1,2 @@
-# LearningGit
-Added one line.
+# LearningGitD
+Deleted.
